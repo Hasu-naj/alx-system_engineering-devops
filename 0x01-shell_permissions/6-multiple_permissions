@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chamod -R 544 hello
+#!/bin/bash 
+chamod u=r+x, g=r+x, o=r hello
