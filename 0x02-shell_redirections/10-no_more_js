@@ -1,2 +1,2 @@
 #!/bin/bach
-find . -type f -name "*.js" -delete
+find . -type f -name "*.js" - print -delete
