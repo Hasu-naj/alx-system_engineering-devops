@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "text" | rot13
+echo "ASCII" | rot13
