@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 < eti | fmt | tr -d ' '
+cut -c 1 < eli | tr -d '\n'
